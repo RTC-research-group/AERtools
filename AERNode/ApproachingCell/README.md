@@ -11,7 +11,7 @@ In order to run the Entropy demo you need to download the AC folder of https://g
 1. Connect the power supply to the OpalKelly power connector. This power supply will supply the power to the AERnode as well.
 2. Download and install the OpalKelly drivers on your laptop: FrontPanelUSB-Win-x64-4.5.0.exe (or win32 version if needed).
 3. Connect the USB cable from OpalKelly to your laptop.
-4. Open Netbeans and the jaer project we have prepared for this (https://github.com/RTC-research-group/AERtools/ApproachingCell/jAER/jaer-master.zip).
+4. Open Netbeans and the jaer project addig the files we have prepared for this (https://github.com/RTC-research-group/AERtools/ApproachingCell/jAER-ATC/).
 5. Select the DVS128 chip, then the okaer interface, and then open the filters viewer.
 6. Search for the filter OKAERtool_Commands and open its controls.
 7. Click on "Allmerged" checkbox at Input panel, and "sequencerOut" checkbox at Output panel.
