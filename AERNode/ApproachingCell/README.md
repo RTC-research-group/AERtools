@@ -1,5 +1,7 @@
 # Approaching Cell AER project
 
+These instructions and material were used for the publised paper https://doi.org/10.3390/e20060475
+
 Once you obtain the AERnode, plus OKAERtool boards from COBER SpinOff company (www.t-cober.es) if they are burned with the AC firmware in flash, the you need these details to allow you to start woking.
 
 What you need is the following hardware:
